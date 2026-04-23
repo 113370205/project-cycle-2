@@ -1,0 +1,9 @@
+4.5 summary
+In this project, we examined whether the proportion of students who have ever smoked is different from 0.50 and whether the mean BMI percentile is different from 65.
+
+From the EDA, we observed the distribution patterns of both variables. For EverCigaretteUse, the data showed the proportion who had ever smoked and those who had not. For BMIPCT, the histogram and boxplot showed the overall distribution, spread, and possible outliers.
+
+The inferential analysis provided confidence intervals and hypothesis test results for both variables. These results helped us evaluate whether the population parameters differ significantly from the benchmark values.
+
+Overall, the project combined EDA and inferential statistics to answer the research questions. The final conclusions were based on both the visual patterns in the data and the formal statistical tests.
+

@@ -1,0 +1,3 @@
+Analysis,Parameter,Estimate,95% CI,p-value,Decision
+Proportion,p,0.5102,"(0.50195, 0.51849)",0.0154,Reject H0
+Mean,μ,64.82,"(64.35, 65.29)",0.4564,Fail to reject H0
